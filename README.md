@@ -240,47 +240,6 @@ This portfolio uses:
 
 This portfolio template is free to use and modify. Feel free to customize it for your personal use.
 
-## 🎯 Next Steps
-
-1. **Update Personal Information** - Add your name, email, phone, location
-2. **Add Project Links** - Update GitHub and demo URLs for each project
-3. **Update Social Links** - Add your GitHub, LinkedIn, Twitter profiles
-4. **Customize Colors** - Match your personal brand
-5. **Add More Projects** - Duplicate project cards and update details
-6. **Deploy** - Host on GitHub Pages, Netlify, or Vercel
-
-## 📞 Support
-
-For issues or questions, feel free to:
-- Check the code comments in HTML, CSS, and JavaScript
-- Validate HTML/CSS on W3C validators
-- Check browser console for error messages
-
-## 🚀 Deployment Options
-
-### GitHub Pages
-```bash
-# Push to GitHub repository
-# Enable GitHub Pages in repository settings
-# Your portfolio will be live at: https://username.github.io/portfolio-demo
-```
-
-### Netlify
-```bash
-# Drag and drop the portfolio-demo folder
-# or connect your GitHub repository
-# Get a free custom domain
-```
-
-### Vercel
-```bash
-# Deploy from GitHub repository
-# Automatic deployments on push
-# Free SSL certificate included
-```
-
----
-
 **Built with passion and clean code! 🎨💻**
 
 Version: 1.0 | Last Updated: 2024
